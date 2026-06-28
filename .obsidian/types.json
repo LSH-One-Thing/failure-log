@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "list": "multitext",
+    "number": "number",
+    "checkbox": "checkbox",
+    "date": "datetime",
+    "date&time": "datetime",
+    "읽기시작": "date",
+    "읽기완료": "date",
+    "한줄요약": "multitext",
+    "활용처": "multitext",
+    "Created": "date",
+    "연결": "multitext"
+  }
+}

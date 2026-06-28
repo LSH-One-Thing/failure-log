@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "c07dcb86e9a0c6ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "19481e1628dadf23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28a6d7568b18a0de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.문헌메모/슈퍼 샘플- 배우는 시대에서 베끼는 시대로.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "슈퍼 샘플- 배우는 시대에서 베끼는 시대로"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0731d95be070e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c3bc35304f660ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4de06d538397411",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "99fac53da1968a21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "229f24540ff2e7c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b727c4259ed830ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f73e73021a206c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70c861eed7996219",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "환영합니다!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "환영합니다! 의 백링크"
+            }
+          },
+          {
+            "id": "c9727d8a3f74c50d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "환영합니다!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "환영합니다! 의 나가는 링크"
+            }
+          },
+          {
+            "id": "e7128d09cecadfcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "9e6f796c47a26915",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "4d9aa0ef96a6c33a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다!.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "환영합니다! 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "28a6d7568b18a0de",
+  "lastOpenFiles": [
+    "01.문헌메모/쓰레드를 '실패의 과정'을 적는 공간으로.md",
+    "01.문헌메모/AI를 잘 쓰는 사람일수록 멍청해지는 이유.md",
+    "01.문헌메모/호기심 간극.md",
+    "01.문헌메모/한국여성은 왜이럴까.md",
+    "01.문헌메모/슈퍼 샘플- 배우는 시대에서 베끼는 시대로.md",
+    "01.문헌메모/글쓰기 주제 모음.md",
+    "00.수집함/스토리텔링 콘텐츠.md",
+    "00.수집함/ai에게 어떻게 질문 해야할까.md",
+    "01.문헌메모/글이라는것은 단순히 글자를 옮겨 적은게 아니다.md",
+    "01.문헌메모/콘텐츠 설계 — 자원의 결핍과 '왜'.md",
+    "01.문헌메모/호기심 간극을 만드는 법.md",
+    "03.카피메모/대체 어떻게 키우셨길래 부모님이 궁금해지네.md",
+    "01.문헌메모/메모와 기록은 다르다..md",
+    "00.수집함/무제 1.md",
+    "01.문헌메모/욕망의 진화 - 자청 해설.md",
+    "01.문헌메모/Excalidraw로 시각화 하기.md",
+    "01.문헌메모/헤드라인의 3요소.md",
+    "00.수집함/타겟 청중 - 매슬로의 5대 욕구 (공냥이).md",
+    "00.수집함/공냥이 님 - 개백수 SNS 인생썰.md",
+    "00.수집함/소비자 심리 및 결핍·상실 기반 시장 분석 보고서.md",
+    "00.수집함/자원 상실·결핍 리서치 프롬프트.md",
+    "Excalidraw/Drawing 2026-06-26 18.00.40.excalidraw.md",
+    "03.카피메모",
+    "00.수집함/무제",
+    "00.수집함/무제.base",
+    "998.템플릿/콘텐츠 작업 메모 - 템플릿.md",
+    "998.템플릿/문헌메모 - 템플릿.md",
+    "00.수집함/AI를 쓰면 더 멍청해지는 이유.md",
+    "00.수집함/철학도 배가 불러야 할 수 있다..md",
+    "998.템플릿",
+    "Excalidraw",
+    "998.템플릿",
+    "999.파일보관함",
+    "99.보관함",
+    "02.영구메모",
+    "01.문헌메모"
+  ]
+}

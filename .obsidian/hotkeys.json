@@ -1,0 +1,14 @@
+{
+  "app:delete-file": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ]
+}
